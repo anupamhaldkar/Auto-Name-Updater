@@ -4,7 +4,7 @@ Example-
 
 my twitter handle @AnupamHaldkar
 
-<img src="https://github.com/anupamhaldkar/twitter-auto-name-updatere3.PNG">
+<img src="https://github.com/anupamhaldkar/twitter-auto-name-updat.PNG">
 
 
 
