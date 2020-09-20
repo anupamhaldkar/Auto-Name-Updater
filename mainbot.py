@@ -6,7 +6,6 @@ import time
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger()
 
-
 def validate_follower_count(user):
     # update string split if you don't use this naming format for twitter profile:
     # 'insert_your_name|{emoji_follower_count(user)} Followers'
