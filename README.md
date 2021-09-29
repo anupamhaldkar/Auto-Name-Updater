@@ -1,12 +1,4 @@
-# Twitter automatic name changer based on your followers
-
-Example-
-
-my twitter handle @AnupamHaldkar
-
-<img src="https://github.com/anupamhaldkar/twitter-auto-name-updat.PNG">
-
-
+# Twitter automatic name changer based on your followers increases
 
 
 
